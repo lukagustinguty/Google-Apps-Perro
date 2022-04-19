@@ -27,6 +27,13 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+      <ImageView
+          android:id="@+id/imageView"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:src="@drawable/tzeitel"
+
+          />
 
         <!-- TODO: Note that this list item will be used in a grid view which requires a
                 different layout because the list will have two columns of cards.
