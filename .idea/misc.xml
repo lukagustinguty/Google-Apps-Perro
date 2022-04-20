@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/PROYECTO PHOTOS PERROS/android-basics-kotlin-dogglers-app/app/src/main/res/layout/grid_list_item.xml" value="0.1308876811594203" />
-        <entry key="..\:/PROYECTO PHOTOS PERROS/android-basics-kotlin-dogglers-app/app/src/main/res/layout/vertical_horizontal_list_item.xml" value="0.4" />
+        <entry key="..\:/PROYECTO PHOTOS PERROS/android-basics-kotlin-dogglers-app/app/src/main/res/layout/activity_horizontal_list.xml" value="0.536" />
+        <entry key="..\:/PROYECTO PHOTOS PERROS/android-basics-kotlin-dogglers-app/app/src/main/res/layout/activity_vertical_list.xml" value="0.17916666666666667" />
+        <entry key="..\:/PROYECTO PHOTOS PERROS/android-basics-kotlin-dogglers-app/app/src/main/res/layout/grid_list_item.xml" value="0.38795180722891565" />
+        <entry key="..\:/PROYECTO PHOTOS PERROS/android-basics-kotlin-dogglers-app/app/src/main/res/layout/vertical_horizontal_list_item.xml" value="0.2462686567164179" />
       </map>
     </option>
   </component>
